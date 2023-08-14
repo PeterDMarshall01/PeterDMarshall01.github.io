@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Academic Website of Peter Marshall
+title: Peter Marshall
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
@@ -8,20 +8,20 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Peter Marshall
   avatar: bio-photo.jpg
-  bio: "This is a sample Jekyll academic website."
+  bio: "Need to fill in"
   email: pete.chronologies@googlemail.com
   # Do not include the @ symbol in your Twitter username
   twitter: #laderast
   linkedin: #username
   github: #laderast
   orcid: https://orcid.org/0000-0002-1949-7702
-  researchgate: #username
+  researchgate: https://www.researchgate.net/profile/Peter-Marshall-8
   mendeley: #username
   google:
     plus: #username
     analytics:
     verify:
-    scholar: #id
+    scholar: https://scholar.google.com/citations?user=6umhXIcAAAAJ&hl=en
   facebook: #username
   instagram: #username
   bing-verify:
