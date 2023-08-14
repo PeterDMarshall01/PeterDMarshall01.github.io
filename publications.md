@@ -18,6 +18,8 @@ Arnold, A, Howard, R, Tyers, C, Bollhalder, S, Dee, M, Palstra, S, Wacker, L, & 
 
 Arnold, A, Howard, R, Tyers, C, Dee, M, Palstra, S, & **Marshall, P,** 2022, *Deal Castle, Victoria Street, Deal, Kent: Radiocarbon wiggle-matching of oak timbers*, Historic England Research Report Series 40-2022 
 
+Bayliss, A, and **Marshall, P,** 2022 *Radiocarbon Dating and Chronological Modelling: Guidelines and Best Practice*. Historic England: London  
+
 Howard, R, Tyers, C, Dee, M, Palstra, S, & **Marshall, P,** 2022 *The Maison Dieu Museum, 17 Ospringe Street, Faversham, Kent: radiocarbon wiggle-matching of oak timbers*, Res Rep Ser, 41/2022 
 
 Arnold, A, Tyers, C, Dee, M, Palstra, S, & **Marshall, P,** 2022 *Trerithick, Polyphant, Altarnun, Cornwall: radiocarbon wiggle-matching of oak timbers*, Res Rep Ser, 54/2022 
