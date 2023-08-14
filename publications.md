@@ -7,6 +7,10 @@ Arnold, A, Howard, R, Tyers, C, Dee, M, Palstra, S, and **Marshall, P,** 2023 *P
 
 Arnold, A, Howard, R, Tyers, C, Bollhalder, S, Wacker, L, and **Marshall, P,** 2023 *Monks Walk, 19 Highgate, Beverley, East Riding of Yorkshire: Radiocarbon wiggle-matching of oak timbers*, HE Res Rep Ser, [22/2023](https://historicengland.org.uk/research/results/reports/22-2023)
 
+Bayliss, A, Bronk Ramsey, C, Cook, G, **Marshall, P,** and van der Plicht, J, 2023 *Radiocarbon Dates from samples funded by English Heritage between 2006 and 2010*, Historic England, Swindon  
+
+Mays, S, Elders, J, Humphrey, L and **Marshall, P.** 2023. *Science and the Dead: Destructive sampling of archaeological human remains for scientific analysis*. Second Edition. Advisory Panel on the Archaeology of Human Burials in England.
+
 Thomas, G. Andrieux, A, Backhouse, L, Bailiff, I, Baldwin, R, Ballantyne, R, Bell, M, Bennett, P, Brown, D, Green, C, Holman, D, Holmes, M, **Marshall, P,** Mills, P, Poole, C, & Secker, D, 2023 In the shadow of saints: the long durée of Lyminge, Kent, as a sacred Christian landscape, *Archaeologia*, 112. [DOI:10.26530/20.500.12657/60888](https://doi.org/10.26530/20.500.12657/60888)
 
 ### 2022
