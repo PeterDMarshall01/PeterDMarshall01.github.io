@@ -3,17 +3,17 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Scientific Dating Co-ordinator at Historic England
 
 ## Education
 
 `1990 - 1994`
-__University Name__
-Degree Awarded
+__Sheffield University__
+PhD
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`1988 - 1991`
+__Sheffield University__
+BA(hons) 1st Class 
 
 ## Awards
 
